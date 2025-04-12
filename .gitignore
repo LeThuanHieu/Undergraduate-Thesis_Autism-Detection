@@ -1,0 +1,49 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (optional - comment out if you want to include models)
+# *.h5
+# *.pb
+# *.tflite
+# *.pt
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Local configuration
+.env
+
+# Large media files (if needed)
+# *.mp4
+# *.tiff
+# *.avi
+# *.mov
+
+# Streamlit specific
+.streamlit/secrets.toml
