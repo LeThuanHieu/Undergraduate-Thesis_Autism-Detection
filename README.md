@@ -114,3 +114,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 Le Thuan Hieu - [GitHub](https://github.com/LeThuanHieu)
+
+One-man Undergraduate Thesis Researching & Exploring the Possibilities of Autism Detection in Children Utilizing Deep Learning Techniques, featuring a basic GUI for Demonstration.
